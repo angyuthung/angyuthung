@@ -148,7 +148,7 @@ A data management and visualization concept designed to simplify the process of 
 
 **Technologies:** UI/UX Design, Data Visualization
 
-🔗 [View Project](YOUR_PROJECT_LINK)
+🔗 [View Project](https://github.com/angyuthung/moonblade.git)
 
 ---
 
