@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- ======================================================= -->
 <!--                  GITHUB PROFILE README                  -->
 <!-- ======================================================= -->
@@ -32,7 +30,7 @@
 
 ## 👩🏻‍💻 About Me
 
-Hi! I'm **[Your Name]**, a Computer Science student at **Universiti Teknologi Malaysia (UTM)** with an interest in understanding how technology works behind the scenes.
+Hi! I'm Ang Yu Thung, a Computer Science student at **Universiti Teknologi Malaysia (UTM)** with an interest in understanding how technology works behind the scenes.
 
 I'm particularly interested in computer networks, cybersecurity, software development, and the logical foundations of computing.
 
